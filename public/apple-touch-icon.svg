@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" fill="none">
+  <!-- Blue rounded background (iOS will add rounded corners automatically) -->
+  <rect width="180" height="180" rx="40" fill="#2563EB"/>
+  <!-- Basket handle (arc) -->
+  <path d="M56 85 Q56 44 90 44 Q124 44 124 85" stroke="white" stroke-width="13" stroke-linecap="round" fill="none"/>
+  <!-- Basket body -->
+  <rect x="38" y="85" width="104" height="63" rx="14" fill="white" fill-opacity="0.95"/>
+  <!-- Vertical weave lines -->
+  <line x1="68" y1="85" x2="68" y2="148" stroke="#2563EB" stroke-width="8" stroke-opacity="0.35"/>
+  <line x1="90" y1="85" x2="90" y2="148" stroke="#2563EB" stroke-width="8" stroke-opacity="0.35"/>
+  <line x1="112" y1="85" x2="112" y2="148" stroke="#2563EB" stroke-width="8" stroke-opacity="0.35"/>
+  <!-- Horizontal mid line -->
+  <line x1="38" y1="116" x2="142" y2="116" stroke="#2563EB" stroke-width="8" stroke-opacity="0.35"/>
+</svg>
